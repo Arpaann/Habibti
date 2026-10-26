@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <rect width="100" height="100" fill="#171715" rx="20"/>
+  <!-- Slit opening -->
+  <rect x="15" y="42" width="70" height="16" rx="8" fill="#F3EFE6" opacity="0.9"/>
+  <!-- Eyes hint -->
+  <circle cx="38" cy="50" r="4" fill="#171715"/>
+  <circle cx="62" cy="50" r="4" fill="#171715"/>
+  <!-- Veil subtle vertical stripes -->
+  <path d="M22 15v20M28 15v20M34 15v20M40 15v20M46 15v20M52 15v20M58 15v20M64 15v20M70 15v20M76 15v20" stroke="#F3EFE6" stroke-width="1.5" stroke-opacity="0.3"/>
+  <path d="M22 65v20M28 65v20M34 65v20M40 65v20M46 65v20M52 65v20M58 65v20M64 65v20M70 65v20M76 65v20" stroke="#F3EFE6" stroke-width="1.5" stroke-opacity="0.3"/>
+</svg>
